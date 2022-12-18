@@ -30,7 +30,7 @@
    }
        
 
-h{
+h1 {
   float: left;
     font-size: 23px;
     font-weight: bold;
@@ -51,7 +51,7 @@ p1 {
   padding: 14px 16px;
   ;color:#414040;
   float: left;
-  font-weight: bold;
+  
 
 }
 

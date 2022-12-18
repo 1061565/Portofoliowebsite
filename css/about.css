@@ -28,9 +28,10 @@
   body {
     background-color: rgb(252, 252, 252);
     font: arial
+ 
    }
        
-   h{
+   h1, h2, h3 {
     
     color: #414040;
     text-align: left;
@@ -40,15 +41,24 @@
     font-weight: bold;
    }
 
-   p{
+  
+   p1, p2, p3{
     color: #414040;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 21px;
    }
 
+   
    li{
     color: #414040;
     text-decoration: none;
     font-size: 21px;
+   }
+
+   img {
+    width: 20vw;
+	height: auto;
+    float: right;
+
    }
